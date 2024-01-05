@@ -1,0 +1,6 @@
+.tag-filter{
+    text-align: left;
+    position: sticky;
+    top:0;
+    border-width: 10px;
+}
