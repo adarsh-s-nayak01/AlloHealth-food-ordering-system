@@ -1,4 +1,26 @@
 <<<<<<< HEAD
+You can find the application hosted here : https://allo-health-food-ordering-system.vercel.app/
+
+#Instructions : 
+1. Clone this git repository
+2. Go to the project directory
+3. In you terminal run :
+     ### `npm install`
+4. Inorder to run the projet just run the below command in your terminal :
+   ### `npm start`
+
+#navigation throught the website:
+You can select any filter you want to apply, that gets you the required food items from the datastore.
+Then add which, drink you want and press select button, this adds it upto your order list. 
+Choose any no of food items you want.
+Press add to order, it will sum up the prices and give you the Order total
+Then if you want to delete it you can  delete it using delete button.
+Then press Add person button to add it to a particular person.
+In order History you can view the orders you made and delete them if you want. 
+I have just stored the data in data.js file itself.
+
+#Thank you
+
 # food-ordering-system
 A react application that enables user to choose available meal with drink selection.
 =======
